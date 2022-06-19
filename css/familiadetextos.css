@@ -1,0 +1,64 @@
+.familiatexto1 {
+    color:#9b9b9b;
+    font-family: 'Poppins Medium';
+    border-radius: 8px;
+    text-shadow: turquoise;
+    text-decoration: dotted;
+    text-align: center;
+    background-color: #282828;
+    padding: 0.7%;
+    display:flex;
+    justify-items: center;
+
+}	
+    .familiatexto2 {
+    color:#9b9b9b;
+    font-family: 'Poppins Medium';
+    border-radius: 0px;
+    text-shadow: turquoise;
+    text-decoration: dotted;
+    text-align: left;
+    background-color: #232323;
+    padding: 0.7%;
+}
+    .familiatexto3 {
+    color:#9b9b9b;
+    font-family: 'Quicksand Medium';
+    border-radius: 3px;
+    text-shadow: turquoise;
+    text-decoration: dotted;
+    text-align: left;
+    background-color: #282828;
+    padding: 0.4%;
+}
+    .familiatexto4 {
+    color:rgb(200, 200, 200);
+    font-family: 'Poppins Medium';
+    border-radius: 8px;
+    text-shadow: turquoise;
+    text-decoration: dotted;
+    text-align: center;
+    background-color: #282828;
+    padding: 0.7%;
+    width: 200px;
+    display: flex;
+
+    
+    }
+    .familiatexto5 {
+    font-size: 30px;
+    color:rgb(200, 200, 200);
+    font-family: 'Consolas Medium';
+    border-radius: 8px;
+    text-shadow: turquoise;
+    text-decoration: dotted;
+    text-align: center;
+    background-color: #282828;
+    padding: 0.7%;
+    width: 200px;
+    display: flex;
+    margin: 10px 60px;
+    justify-content: center;
+
+    
+    }

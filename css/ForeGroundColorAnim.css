@@ -1,0 +1,35 @@
+body{
+    background-color:   #151515;
+    margin:0px;
+    padding-top: 10%;
+}   
+
+
+      /* Code Element */
+.AN{
+  /* Transision Code */
+      transition: Color 0.29s;
+
+  /* Design Code */
+        color:gray;
+        font-family: 'Poppins Medium';
+        border-radius: 0px;
+        text-shadow: turquoise;
+        text-decoration: dotted;
+        background-color: #282828;
+        height: 20px;
+        width:100%;
+        justify-items: end;
+        display: flex;
+        justify-content: center;
+        align-items: end;
+        margin: 425px 0px 0px;
+        
+    
+    }
+ /* Element Event */
+.AN:hover{
+   /* Color To */
+    Color: rgb(175, 175, 175)
+
+}

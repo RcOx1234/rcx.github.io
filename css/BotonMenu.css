@@ -1,0 +1,53 @@
+.buttong2 {
+    border-radius: 5px;
+    text-align: center;
+    text-shadow: rgb(0, 0, 0);
+    font-family: 'Quicksand Medium';
+    background-color: rgb(40, 40, 40);
+    color: #c8c8c8;
+    border-color: transparent;
+    transition: color 500ms;
+    transition: background-color 350ms;    
+    border: none;
+}
+
+
+
+.buttong2:hover{
+   
+   
+    background-color: rgb(175, 175, 175);
+    color: rgb(20, 20, 20);
+}
+
+.buttong2:active {
+    transition: background-color 250ms;
+    background-color: rgb(232, 232, 232);
+}
+
+.buttong3 {
+    border-radius: 5px;
+    text-align: center;
+    text-shadow: rgb(0, 0, 0);
+    font-family: 'Quicksand Medium';
+    background-color: rgb(50, 50, 50);
+    color: #c8c8c8;
+    border-color: transparent;
+    transition: color 500ms;
+    transition: background-color 350ms;    
+    border: none;
+    margin: 30px 97px;
+    
+}
+
+.buttong3:hover{
+   
+   
+    background-color: rgb(175, 175, 175);
+    color: rgb(20, 20, 20);
+}
+
+.buttong3:active {
+    transition: background-color 250ms;
+    background-color: rgb(232, 232, 232);
+}
