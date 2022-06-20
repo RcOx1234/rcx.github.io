@@ -43,11 +43,11 @@
 .buttong3:hover{
    
    
-    background-color: rgb(175, 175, 175);
+    background-color: rgb(76, 194, 255);
     color: rgb(20, 20, 20);
 }
 
 .buttong3:active {
     transition: background-color 250ms;
-    background-color: rgb(232, 232, 232);
+    background-color: rgb(110, 194, 255);
 }

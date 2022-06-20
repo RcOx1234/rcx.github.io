@@ -9,7 +9,7 @@
    
     height: 80%;
     width: 40.5%;
-    padding: 1px;
+   
     float: right;
     margin: 0%;
     display: flex;
@@ -27,7 +27,7 @@
  
     height: 75%;
     width: 25%;
-    padding: 2px;
+  
     float: left;
     margin: 0px 0px 0px 0px;
 
@@ -36,13 +36,8 @@
     
     height: 95%;
     width: 100%;
-    padding: 2px;		
+   		
     margin: 0px 15px;
     transition: height 0.29s;
     transition: width 0.29s;
-}
-
-.imagen4:hover {
-    height: 100%;
-    width: 105%;
 }

@@ -1,3 +1,5 @@
+
+
 .familiatexto1 {
     color:#9b9b9b;
     font-family: 'Poppins Medium';
@@ -13,7 +15,7 @@
 }	
     .familiatexto2 {
     color:#9b9b9b;
-    font-family: 'Poppins Medium';
+    font-family: 'Quicksand', sans-serif;
     border-radius: 0px;
     text-shadow: turquoise;
     text-decoration: dotted;
@@ -23,7 +25,7 @@
 }
     .familiatexto3 {
     color:#9b9b9b;
-    font-family: 'Quicksand Medium';
+    font-family: 'Quicksand', sans-serif;
     border-radius: 3px;
     text-shadow: turquoise;
     text-decoration: dotted;
@@ -54,7 +56,7 @@
     text-decoration: dotted;
     text-align: center;
     background-color: #282828;
-    padding: 0.7%;
+  
     width: 200px;
     display: flex;
     margin: 10px 60px;

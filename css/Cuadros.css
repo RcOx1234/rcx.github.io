@@ -1,11 +1,11 @@
 .square {
     background: rgb(35, 35, 35);
-    width: 17.5%;
-    height: 18vw;
+    width: 325px;
+    height: 350px;
     box-shadow: white;
     border-radius: 5px;
     box-shadow: 0px 0px 25px 5px rgb(20, 20, 20);
-    padding: 0%;
+
     margin: 0px 10px 15px;
     display: grid;
     transition: background 0.29s;
