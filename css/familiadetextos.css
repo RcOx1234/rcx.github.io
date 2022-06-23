@@ -1,4 +1,4 @@
-
+@import url('https://fonts.googleapis.com/css2?family=Quicksand&display=swap');
 
 .familiatexto1 {
     color:#9b9b9b;
@@ -7,10 +7,13 @@
     text-shadow: turquoise;
     text-decoration: dotted;
     text-align: center;
-    background-color: #282828;
-    padding: 0.7%;
+    background-color: rgb(40, 40, 40);
+    
     display:flex;
     justify-items: center;
+    justify-content: center;
+    align-self:flex-start;
+    align-items: center;
 
 }	
     .familiatexto2 {
@@ -50,17 +53,29 @@
     .familiatexto5 {
     font-size: 30px;
     color:rgb(200, 200, 200);
-    font-family: 'Signika Negative', sans-serif;
+    font-family: 'Quicksand Medium', sans-serif;
     border-radius: 8px;
     text-shadow: turquoise;
     text-decoration: dotted;
     text-align: center;
     background-color: #282828;
-  
-    width: 200px;
+    height: 35px;
+    
     display: flex;
     margin: 10px 60px;
     justify-content: center;
 
     
     }
+    .familiatexto6 {
+        color:rgb(200, 200, 200);
+        font-family: 'Quicksand', sans-serif;
+        opacity: 0.8;
+        height: 35px;
+        margin: -140px 25px ;
+  
+         
+        justify-content: start;
+    
+        
+        }

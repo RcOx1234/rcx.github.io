@@ -12,6 +12,59 @@
     
     
 }
+
+
 .square:hover {
     background: rgb(40, 40, 40);
+}
+
+.square2 {
+    background: rgb(35, 35, 35);
+    width: 525px;
+    height: 525px;
+    box-shadow: white;
+    border-radius: 5px;
+    box-shadow: 0px 0px 25px 5px rgb(20, 20, 20);
+
+    margin: 0px 10px 15px;
+    display: grid;
+    transition: background 0.29s;
+    
+    
+}
+
+
+.square2:hover {
+    background: rgb(40, 40, 40);
+}
+.square3 {
+    background: rgb(35, 35, 35);
+    width: 900px;
+    height: 350px;
+    box-shadow: white;
+    border-radius: 5px;
+    box-shadow: 0px 0px 25px 5px rgb(20, 20, 20);   
+    margin: 0px 10px 15px;
+    display: grid;
+    transition: background 0.29s;
+    
+    
+}
+
+
+.square3:hover {
+    background: rgb(40, 40, 40);
+}
+.Contenedor {
+    display: flex;
+    flex-wrap: wrap;
+    width: 1400px;
+    margin: 0 auto;
+}
+.Contenedor2 {
+    display: flex;
+    flex-wrap: wrap;
+    width: 1100px;
+    margin: 0 auto;
+    align-items:center;
 }
