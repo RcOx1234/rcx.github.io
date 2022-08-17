@@ -1,6 +1,54 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+.home {
+  display: flex;
+  flex-wrap: wrap;
+}
 .linea{
     border-top: 1px solid rgba(128, 128, 128, 0.4);
     padding-top: 10px;
     padding-bottom: 10px;
   
   }
+
+  .in-flex {
+    flex: 1;
+    min-width: 200px;
+    display: flex; flex-wrap:wrap;
+  }
+  .in-flex:first-child {
+    flex: 2;
+    padding: 25px;
+    margin: 10px;
+  }
+  .in-flex div {
+    padding: 15px;
+    margin: 15px;
+  }
+
+  .in-flex2 {
+    flex: 1;
+    min-width: 50px;
+  }
+  .in-flex2:first-child {
+    flex: 2;
+    padding: 10px;
+    margin: 0px;
+  }
+  .in-flex2 div {
+    padding: 5px;
+    margin: 5px;
+  }
+  ::-webkit-scrollbar {
+    width: 10px;
+    background-color: rgb(40, 40, 40);
+  }
+  ::-webkit-scrollbar-thumb {
+    background: #888;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555;
+  }
+  

@@ -14,17 +14,31 @@
     justify-content: center;
     align-self:flex-start;
     align-items: center;
+    min-height: 35px;
+    min-width: 35px;
+    max-width: 1250px;
+    margin-bottom: 0px;
+    margin: 10px;
 
 }	
+.familiatexto1 div {
+    padding: 25px;
+    margin: 25px;
+}
     .familiatexto2 {
     color:#9b9b9b;
     font-family: 'Quicksand', sans-serif;
-    border-radius: 0px;
+    border-radius: 5px;
     text-shadow: turquoise;
     text-decoration: dotted;
     text-align: left;
     background-color: #232323;
     padding: 0.7%;
+    min-height: 35px;
+    min-width: 35px;
+    max-width: 21000px;
+    margin: 5px;
+    margin-bottom: 23px;
 }
     .familiatexto3 {
     color:#9b9b9b;
@@ -35,6 +49,10 @@
     text-align: left;
     background-color: #282828;
     padding: 0.4%;
+    min-height: 35px;
+    min-width: 35px;
+    max-width: 1250px;
+    margin: 5px;
 }
     .familiatexto4 {
     color:rgb(200, 200, 200);
@@ -47,23 +65,26 @@
     padding: 0.7%;
     width: 200px;
     display: flex;
+    min-height: 35px;
+    min-width: 35px;
+    max-width: 1250px;
+    margin: 5px;
 
     
     }
     .familiatexto5 {
     font-size: 30px;
     color:rgb(200, 200, 200);
-    font-family: 'Quicksand Medium', sans-serif;
     border-radius: 8px;
     text-shadow: turquoise;
     text-decoration: dotted;
     text-align: center;
     background-color: #282828;
-    height: 35px;
-    
-    display: flex;
-    margin: 10px 60px;
-    justify-content: center;
+    min-height: 0px;
+    min-width: 0px;
+    max-width: 1250px;
+    width: 35%;
+    margin: 1% auto;
 
     
     }

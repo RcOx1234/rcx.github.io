@@ -1,12 +1,16 @@
 .buttong2 {
-    border-radius: 5px;
-    text-align: center;
+    border-radius: 3px;
     text-shadow: rgb(0, 0, 0);
     background-color: rgb(40, 40, 40);
     color: #c8c8c8;
     border-color: transparent;
     transition: color 500ms;
     transition: background-color 350ms;    
+    text-align: center;
+    min-height: 35px;
+    min-width: 125px;
+    max-width: 700px;
+    margin: 5px;
     border: none;
 }
 
